@@ -54,9 +54,9 @@
 24. **DRK_YN:** is a flag that indicates whether the individual is a drinker or not.
 
 <h2>EDA :</h2>
-- Exploratory Data Analysis (EDA) to gain insights into diamond characteristics.
-- In EDA we provide data visualisation in different graph method like pair plot, cat plot, subplot, data distribution plot, pie chart, scatter plot. EDA summarize the main behaviour, features, and patterns in a dataset.
-- Describing the relation between each other and making the observations.
+Exploratory Data Analysis (EDA) to gain insights into diamond characteristics.
+In EDA we provide data visualisation in different graph method like pair plot, cat plot, subplot, data distribution plot, pie chart, scatter plot. EDA summarize the main behaviour, features, and patterns in a dataset.
+Describing the relation between each other and making the observations.
 
 <h2> Contributors ✨ </h2>
 
@@ -70,9 +70,9 @@
   </tbody>
   </table>  
 <h2>Data Preprocessing and Transformation :</h2>
-- Data preprocessing and transformation involve cleaning, organizing, and structuring raw data to make it suitable for analysis or model training.
-- Data preprocessing is the initial step in data preparation, where the raw data is cleaned and prepared for further analysis.
-- This step involves several tasks: Data transformation involves converting data into a different format or structure to meet the requirements of specific analysis techniques or machine learning algorithms
+Data preprocessing and transformation involve cleaning, organizing, and structuring raw data to make it suitable for analysis or model training.
+Data preprocessing is the initial step in data preparation, where the raw data is cleaned and prepared for further analysis.
+This step involves several tasks: Data transformation involves converting data into a different format or structure to meet the requirements of specific analysis techniques or machine learning algorithms
 
 <h2> Contributors ✨ </h2>
 
@@ -85,14 +85,14 @@
 </table>
 
  <h2>Classification model building, Hyperparameter Tuning and Model evaluation : </h2>
-- Building a classification model involves several key steps, such as model selection, hyperparameter tuning and model evaluation.
-- There are many regression model available to use, they can selected based on the nature of the problem.
-- Such models are, Logistic Regression, Desicion Tree, KNN, NN, Random Forest, Catboost,etc.
-- Hyperparameters are configuration settings for the classification algorithm
-- Yechniques like grid search or randomized search can be used find the best combination of hyperparameters that optimize the model's performance.
-- Cross-validation assess how well the model generalizes to unseen data at each combination of hyperparameters.
-- Model evaluation is a process to find the prediction of the trained model on the testing dataset or new, unseen data.
-- The model's performance can be evaluated by evaluation metrices such as Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, etc.
+Building a classification model involves several key steps, such as model selection, hyperparameter tuning and model evaluation.
+There are many regression model available to use, they can selected based on the nature of the problem.
+Such models are, Logistic Regression, Desicion Tree, KNN, NN, Random Forest, Catboost,etc.
+Hyperparameters are configuration settings for the classification algorithm
+Yechniques like grid search or randomized search can be used find the best combination of hyperparameters that optimize the model's performance.
+Cross-validation assess how well the model generalizes to unseen data at each combination of hyperparameters.
+Model evaluation is a process to find the prediction of the trained model on the testing dataset or new, unseen data.
+The model's performance can be evaluated by evaluation metrices such as Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, etc.
 
 <h2> Contributors ✨ </h2>
 <table>
