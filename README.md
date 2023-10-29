@@ -1,1 +1,3 @@
 # IT496_Phoneix_2
+
+##I've done EDA part of the project...
